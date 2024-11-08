@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 <div id="main image" align="center">
-  <img src="https://images.app.goo.gl/jKJsgjmhUkmebHrU9" width="500" height="300" alt=""/>
+  <img src="https://d35oenyzp35321.cloudfront.net/Heart_Failure_In_Youngsters_498e3b1f38.jpg" width="500" height="300" alt=""/>
 </div>
 
 ---
